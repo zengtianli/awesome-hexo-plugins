@@ -1,6 +1,3 @@
-The web scraper code provided below is intended for educational purposes only. It aims to outline the hexo-plugins available on hexo.io. The number of stars received by each plugin is mentioned to assist users in identifying popular and useful plugins. Additionally, this information helps in promoting the plugin developers.
-
-Please note that this code is for educational purposes only and should not be used for any other purposes without proper authorization.
 | Name                                 | Link                                                                  |   Stars |
 |:-------------------------------------|:----------------------------------------------------------------------|--------:|
 | hexo-helper-live2d                   | https://github.com/EYHN/hexo-helper-live2d.git                        |    3800 |
@@ -451,4 +448,3 @@ Please note that this code is for educational purposes only and should not be us
 | hexo-bin-pagination                  | https://github.com/CroMarmot/hexo-bin-pagination                      |       0 |
 | hexo-tag-strava                      | https://github.com/alexmufatti/hexo-tag-strava                        |       0 |
 | hexo-renderer-restructuredtext       | https://gitlab.com/mcepl/hexo-renderer-restructuredtext               |       0 |
-
