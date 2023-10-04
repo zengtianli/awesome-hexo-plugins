@@ -1,6 +1,68 @@
-The web scraper code provided below is intended for educational purposes only. It aims to outline the hexo-plugins available on hexo.io. The number of stars received by each plugin is mentioned to assist users in identifying popular and useful plugins. Additionally, this information helps in promoting the plugin developers.
+# `awesome-hexo-plugins`
 
-Please note that this code is for educational purposes only and should not be used for any other purposes without proper authorization.
+### Overview
+
+The `awesome-hexo-plugins` repository consists of a web scraper designed to fetch details about hexo-plugins available on hexo.io. By providing information about each plugin, including the number of stars it has received, this repository aims to assist users in identifying and prioritizing popular and useful hexo plugins. Additionally, the data harvested helps promote the hard work of plugin developers.
+
+**Please note:** This code is for **educational purposes only**. Unauthorized use for other purposes is not endorsed.
+
+### Table of Contents
+
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [File Structure](#file-structure)
+4. [Contributing](#contributing)
+5. [License](#license)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/zengtianli/awesome-hexo-plugins.git
+cd awesome-hexo-plugins
+```
+
+2. [Add additional steps if required, e.g., dependency installation, environment setup.]
+
+### Usage
+
+**Scraping hexo.io for plugin details:**
+
+```bash
+python srap_hexoplug.py
+```
+
+**Converting plugins.csv to markdown:**
+
+```bash
+python csv2md.py
+```
+
+**[Provide more detailed instructions on how and when to use other scripts, if necessary.]**
+
+### File Structure
+
+Here's a breakdown of the primary files in this repository:
+
+- `srap_hexoplug.py`: Script to scrape hexo.io for plugin details.
+- `plugin.txt`: [Provide a brief description.]
+- `plugin2csv.py`: [Provide a brief description.]
+- `plugins_sorted.csv`: Contains the sorted list of hexo plugins based on [criterion, e.g., number of stars].
+- `plugins_sorted.md`: Markdown version of `plugins_sorted.csv`.
+- `plugins.csv`: Raw CSV file containing scraped plugin details.
+- `csv2md.py`: Script to convert CSV data to Markdown format.
+- `README.md`: The file you're currently reading.
+
+### Contributing
+
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed!
+
+### License
+
+The code in this repository is for **educational purposes only**. Please ensure you have proper authorization before using it for any other purposes.
+
+
+
 | Name                                 | Link                                                                  |   Stars |
 |:-------------------------------------|:----------------------------------------------------------------------|--------:|
 | hexo-helper-live2d                   | https://github.com/EYHN/hexo-helper-live2d.git                        |    3800 |
