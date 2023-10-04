@@ -1,4 +1,4 @@
-# `awesome-hexo-plugins`
+# awesome-hexo-plugins
 
 ### Overview
 
